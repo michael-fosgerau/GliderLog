@@ -1,5 +1,5 @@
 # GliderLog
-App for logging glider plane flights
+App for logging glider plane flights - ReactNative / Expo
 
 Run the expo emulator with "npm start":
 ![GliderLog expo screenshot](https://raw.githubusercontent.com/michael-fosgerau/GliderLog/master/GliderLog-expo-screenshot.jpg)
